@@ -1,0 +1,102 @@
+{
+    "barebones": {
+        "Nut65": {
+            "name": "Nut65",
+            "type": "keyboard",
+            "subtype": "65%",
+            "manufacturer": "Nut",
+            "url": "https://weikav.com/weikav-nut65/",
+            "colors": [
+                "black",
+                "red",
+                "silver"
+            ],
+            "image": {
+                "black": "https://weikav.com/wp-content/uploads/2025/08/BLACK.jpg",
+                "red": "https://weikav.com/wp-content/uploads/2025/08/RED.jpg",
+                "silver": "https://weikav.com/wp-content/uploads/2025/08/SILVER.jpg"
+            },
+            "price": "101€",
+            "time": "15"
+        }
+    },
+    "switchs": {
+        "Linéaires": {
+            "Akko en palissandre": {
+                "prix": "31€",
+                "image": "https://akkogear.eu/cdn/shop/files/Akko-Rosewood-Banner-1500-1500-2.jpg?v=1721117781&width=500"
+            },
+            "V3 Piano Pro": {
+                "prix": "35€",
+                "image": "https://akkogear.eu/cdn/shop/files/V3-Piano-Pro-Switch-5.png?v=1722497056&width=800"
+            },
+            "Keygeek x MZ Y3": {
+                "prix": "35€",
+                "image": "https://lumekeebs.com/cdn/shop/files/Untitled-7_9bf52123-91ff-4681-83f0-520247897ba7.png?v=1750389439&width=2000"
+            }
+        }
+    },
+    "keycaps": {
+        "KAT Milkshake": {
+            "name": "KAT Milkshake",
+            "type": "keycap set",
+            "manufacturer": "Drop",
+            "url": "https://keycapsule.shop/products/kat-milkshake-doubleshot-keycaps",
+            "image": {
+                "1": "https://keycapsule.shop/cdn/shop/files/KAT_Milkshake-DS_Brutal60-2.jpg?v=1759738338",
+                "2": "https://keycapsule.shop/cdn/shop/files/KAT_Milkshake-DS_Plaket60-1.jpg?v=1760104142"
+            },
+            "price": "90€",
+            "time": "2",
+            "description": "Chaque détail, des icônes soignées à la texture PBT doubleshot évoque le réconfort d’un vrai milkshake : sucré, glacé, coloré, avec une pointe de nostalgie.\n\nDesignées par notre directeur artistique biip, ces touches en profil KAT sont un cocktail de minimalisme, de fun et de confort. Faciles à intégrer dans n’importe quel setup, elles sont la cerise sur le milkshake qui fait toute la différence.\n\nAlors, tu choisis quoi ? Le lumineux set blanc ou le sobre bleu nuit ?\nQu’importe ton choix : on te propose deux ambiances, deux humeurs, mais toujours une même douceur."
+        },
+        "Touches Akko en PBT": {
+            "name": "Touches Akko en PBT profil",
+            "type": "keycap set",
+            "manufacturer": "Akko",
+            "url": "https://akkogear.eu/fr/products/akko-canned-pbt-keycaps-108-key",
+            "image": {
+                "1": "https://akkogear.eu/cdn/shop/files/Akko-Canned-PBT-Keycaps-108keys-1.jpg?v=1725447679&width=800"
+            },
+            "price": "20€",
+            "time": "2"
+        },
+        "Maclab dark": {
+            "name": "Maclab dark",
+            "type": "keycap set",
+            "manufacturer": "Keygem",
+            "url": "https://keygem.com/products/maclab-keycaps?variant=44640592265484",
+            "image": {
+                "1": "https://keygem.com/cdn/shop/files/light1_1005x_174120b6-7472-4af4-8804-2ff9ef7a7770.webp?v=1695982346&width=1920"
+            },
+            "price": "60€ (-50%)"
+        },
+        "Maclab light": {
+            "name": "Maclab light",
+            "type": "keycap set",
+            "manufacturer": "Keygem",
+            "url": "https://keygem.com/products/maclab-keycaps?variant=44640592265484",
+            "image": {
+                "1": "https://keygem.com/cdn/shop/files/dark2_1005x_713e6716-b4ca-48b9-8b37-105efa1fa7dd.webp?v=1695982346&width=1920"
+            },
+            "price": "60€ (-50%)"
+        },
+        "MV T3RMINAL GMK": {
+            "name": "MV T3RMINAL GMK",
+            "type": "keycap set",
+            "manufacturer": "GMK",
+            "url": "https://keygem.com/products/mv-t3rminal-gmk-cyl-pre-order?variant=44972914016524",
+            "image": {
+                "1": "https://keygem.com/cdn/shop/files/PhotoDec262023_205824.jpg?v=1704711298&width=832",
+                "2": "https://keygem.com/cdn/shop/files/PhotoDec262023_205855_1.jpg?v=1704711299&width=832",
+                "3": "https://keygem.com/cdn/shop/files/PhotoDec262023_205855_2.jpg?v=1704711298&width=832",
+                "4": "https://keygem.com/cdn/shop/files/PhotoDec302023_202727_1.jpg?v=1704711298&width=832",
+                "5": "https://keygem.com/cdn/shop/files/PhotoDec302023_202727_2.jpg?v=1704711298&width=832",
+                "6": "https://keygem.com/cdn/shop/files/PhotoDec262023_205855_2_1.jpg?v=1704711299&width=832",
+                "7": "https://keygem.com/cdn/shop/files/kitting.jpg?v=1704712722&width=1200"
+            },
+            "price": "160€",
+            "time": "4"
+        }
+    }
+}

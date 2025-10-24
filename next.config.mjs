@@ -1,0 +1,33 @@
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "weikav.com",
+      },
+      {
+        protocol: "https",
+        hostname: "akkogear.eu",
+      },
+      {
+        protocol: "https",
+        hostname: "m.media-amazon.com",
+      },
+      {
+        protocol: "https",
+        hostname: "keycapsule.shop",
+      },
+      {
+        protocol: "https",
+        hostname: "lumekeebs.com",
+      },
+      {
+        protocol: "https",
+        hostname: "keygem.com"
+      }
+    ],
+  },
+};
+
+export default nextConfig;
