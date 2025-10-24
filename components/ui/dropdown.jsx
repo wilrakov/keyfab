@@ -28,7 +28,7 @@ export function MobileMenu() {
             <Link href="/configure">Configurer son clavier</Link>
           </DropdownMenuItem>
           <DropdownMenuItem>
-            <Link href="/pieces">Nos pièces</Link>
+            <Link href="/fonctionnement">Fonctionnement</Link>
           </DropdownMenuItem>
           <DropdownMenuItem>
             <Link href="/contact">Nous contacter</Link>
@@ -38,3 +38,4 @@ export function MobileMenu() {
     </DropdownMenu>
   )
 }
+
