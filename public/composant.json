@@ -49,6 +49,10 @@
             "Keygeek x MZ Y3": {
                 "prix": "35€",
                 "image": "https://lumekeebs.com/cdn/shop/files/Untitled-7_9bf52123-91ff-4681-83f0-520247897ba7.png?v=1750389439&width=2000"
+            },
+            "Gateron Yellow Black": {
+                "prix": "19€",
+                "image": "https://42keebs.eu/wp-content/uploads/2025/02/IMG_20250322_104559.jpg"
             }
         }
     },
@@ -130,4 +134,5 @@
     }
 
 }
+
 
