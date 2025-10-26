@@ -18,6 +18,22 @@
             },
             "price": "101€",
             "time": "15"
+        },
+        "Unix60 ANSI 60%": {
+            "name": "Unix60 ANSI 60%",
+            "type": "keyboard",
+            "subtype": "60%",
+            "manufacturer": "42Keebs",
+            "url": "https://42keebs.eu/shop/kits/pro-micro-based/unix60-ansi-iso-hhkb-60-black-green/",
+            "colors": [
+                "black",
+                "green"
+            ],
+            "image": {
+                "black": "https://42keebs.eu/wp-content/uploads/2021/05/Unix60-built-scaled.jpg",
+                "green": "https://42keebs.eu/wp-content/uploads/2021/03/IMG_20210516_162412-scaled.jpg"
+            },
+            "price": "45€"
         }
     },
     "switchs": {
@@ -99,4 +115,5 @@
             "time": "4"
         }
     }
+
 }
