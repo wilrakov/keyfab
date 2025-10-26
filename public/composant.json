@@ -34,7 +34,7 @@
                 "Nuit sombre": "https://akkogear.eu/cdn/shop/files/DE-Stock_0017_Akko-5075B-VIA-Black-RGB-UK--DIY-Kit.png?v=1751444788&width=600"
             },
             "price": "85€"
-        }
+        },
         "Unix60 ANSI 60%": {
             "name": "Unix60 ANSI 60%",
             "type": "keyboard",
@@ -150,6 +150,7 @@
     }
 
 }
+
 
 
 
