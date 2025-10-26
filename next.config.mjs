@@ -25,6 +25,10 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "keygem.com"
+      },
+      {
+        protocol: "https",
+        hostname: "42keebs.eu"
       }
     ],
   },
