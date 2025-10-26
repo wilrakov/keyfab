@@ -32,7 +32,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "aliexpress-media.com"
+        hostname: "ae-pic-a1.aliexpress-media.com"
       }
     ],
   },
