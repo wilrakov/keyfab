@@ -19,6 +19,22 @@
             "price": "101€",
             "time": "15"
         },
+        "5075S": {
+            "name": "5075S",
+            "type": "keyboard",
+            "subtype": "75€",
+            "manufacturer": "Akko",
+            "url": "https://akkogear.eu/fr/products/5075-diy-kit?variant=45271724982471",
+            "colors": [
+                "Blanc clair de lune",
+                "Nuit sombre"
+            ],
+            "image": {
+                "Blanc clair de lune": "https://akkogear.eu/cdn/shop/files/5075-Via_6426d7de-f170-465c-b334-bbb1a1ffff00.png?v=1739356203&width=600",
+                "Nuit sombre": "https://akkogear.eu/cdn/shop/files/DE-Stock_0017_Akko-5075B-VIA-Black-RGB-UK--DIY-Kit.png?v=1751444788&width=600"
+            },
+            "price": "85€"
+        }
         "Unix60 ANSI 60%": {
             "name": "Unix60 ANSI 60%",
             "type": "keyboard",
@@ -134,5 +150,6 @@
     }
 
 }
+
 
 
