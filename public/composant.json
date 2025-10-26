@@ -50,6 +50,20 @@
                 "green": "https://42keebs.eu/wp-content/uploads/2021/03/IMG_20210516_162412-scaled.jpg"
             },
             "price": "45€"
+        },
+        "Discipad Pro Hotswap Numpad": {
+            "name": "Discipad Pro Hotswap Numpad",
+            "type": "numpad",
+            "subtype": "numpad",
+            "manufacturer": "42Keebs",
+            "url": "https://42keebs.eu/shop/kits/with-discrete-mcu/discipad-pro-hotswap-numpad-kit/",
+            "colors": [
+                "black"
+            ],
+            "image": {
+                "black": "https://42keebs.eu/wp-content/uploads/2021/03/IMG_20210418_114037.jpg"
+            },
+            "price": "33€"
         }
     },
     "switchs": {
@@ -150,6 +164,7 @@
     }
 
 }
+
 
 
 
