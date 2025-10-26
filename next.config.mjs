@@ -29,6 +29,10 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "42keebs.eu"
+      },
+      {
+        protocol: "https",
+        hostname: "aliexpress-media.com"
       }
     ],
   },
