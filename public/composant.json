@@ -50,20 +50,6 @@
                 "green": "https://42keebs.eu/wp-content/uploads/2021/03/IMG_20210516_162412-scaled.jpg"
             },
             "price": "45€"
-        },
-        "Discipad Pro Hotswap Numpad": {
-            "name": "Discipad Pro Hotswap Numpad",
-            "type": "numpad",
-            "subtype": "numpad",
-            "manufacturer": "42Keebs",
-            "url": "https://42keebs.eu/shop/kits/with-discrete-mcu/discipad-pro-hotswap-numpad-kit/",
-            "colors": [
-                "black"
-            ],
-            "image": {
-                "black": "https://42keebs.eu/wp-content/uploads/2021/03/IMG_20210418_114037.jpg"
-            },
-            "price": "33€"
         }
     },
     "switchs": {
@@ -148,22 +134,24 @@
             "price": "160€",
             "time": "4"
         },
-        "USLION PBT profil XDA": {
-            "name": "USLION PBT profil XDA",
+        "Keycaps AZERTY Gameboy": {
+            "name": "Keycaps AZERTY Gameboy",
             "type": "keycap set",
-            "manufacturer": "aliexpress",
-            "url": "https://nl.aliexpress.com/item/1005006116785300.html?spm=a2g0o.productlist.main.21.334adBCldBClCo&algo_pvid=5ca0f49f-8506-46ba-9eec-d8aedacd0f45&algo_exp_id=5ca0f49f-8506-46ba-9eec-d8aedacd0f45-20&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2117.38%2111.21%21%21%21140.42%2190.58%21%40211b615317614765886938033ebc2d%2112000038648251675%21sea%21BE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae41a71b8%3Bm03_new_user%3A-29895%3BpisId%3A5000000187456134&curPageLogUid=4yXIOEKGoBAm&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006116785300%7C_p_origin_prod%3A",
+            "manufacturer": "CustomTonClavier",
+            "url": "https://customtonclavier.fr/products/keycaps-azerty-qwerty-gameboy?variant=48144255877459",
             "image": {
-                "1": "https://ae-pic-a1.aliexpress-media.com/kf/Sad5c0e587d30439b9ce849378e626ebfW.jpg_960x960q75.jpg_.webp",
-                "2": "https://ae-pic-a1.aliexpress-media.com/kf/S32d3208ac4394a098a883c2f377663e9w.jpg_960x960q75.jpg_.webp",
-                "3": "https://ae-pic-a1.aliexpress-media.com/kf/S798906fba43d4f3f8b44aeff939efcba7.jpg_960x960q75.jpg_.webp"
+                "1": "https://customtonclavier.fr/cdn/shop/files/keycaps-azerty-qwerty-gameboy.webp?v=1715459838&width=600",
+                "2": "https://customtonclavier.fr/cdn/shop/files/gameboy-azerty-keycaps.webp?v=1715459838&width=600",
+                "3": "https://customtonclavier.fr/cdn/shop/files/gameboy-qwerty-gameboy.webp?v=1715459838&width=600",
+                "4": "https://customtonclavier.fr/cdn/shop/files/keycaps-azerty-gameboy.webp?v=1715459838&width=600",
+                "5": "https://customtonclavier.fr/cdn/shop/files/keycaps-qwerty-gameboy.webp?v=1715459833&width=600"
             },
-            "price": "18€",
-            "time": "4"
+            "price": "70€"
         }
     }
 
 }
+
 
 
 
