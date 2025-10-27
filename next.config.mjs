@@ -33,6 +33,10 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "ae-pic-a1.aliexpress-media.com"
+      },
+      {
+        protocol: "https",
+        hostname: "customtonclavier.fr"
       }
     ],
   },
